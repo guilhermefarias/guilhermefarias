@@ -9,3 +9,14 @@
 :shield: Cyber Security enthusiast<br/>
 :floppy_disk: Building Internet since 2011, Writing on web since 2007 and Internet user since 2003.<br/>
 :loudspeaker: I love talk about tech at conferences and meetups, feel free to invite me, I would love to join!
+
+## ⚡ Technologies
+Talk to me about:
+
+- Front-end development using **React**.
+- Backend development using **NodeJS**.
+- Mobile application development using **Flutter**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Managing databases using **PostgreSQL** and his amazing ecosystem.
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefarias&count_private=true)
