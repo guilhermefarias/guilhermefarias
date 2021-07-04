@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 About Me
 :dna: Software Engineer who loves making high-quality applications.<br/>
 :hammer_and_wrench: Mainly code with JavaScript and related tecnologies.<br/>
-:computer: Currently working on a PontoSimples and AeroManager.<br/>
+:computer: Currently working on a [PontoSimples](https://pontosimples.com)  and [AeroManager](https://aeromanager.app).<br/>
 :rocket: Digital Product Consultant on DigitalBits<br/>
 :mortar_board: Bachelor of Information Systems.<br/>
 :earth_americas: Backpacker World Traveler on spare time.<br/>
