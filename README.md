@@ -7,7 +7,7 @@
 :earth_americas: Backpacker World Traveler on spare time.<br/>
 :airplane: Airplane Private Pilot, learning to Commercial Pilot License (CPL)<br/>
 :shield: Cyber Security enthusiast.<br/>
-:floppy_disk: Building Internet since 2011, Writing on web since 2007 and Internet user since 2003.<br/>
+:floppy_disk: Coding web since 2007 and Internet user since 2003.<br/>
 :loudspeaker: I love talk about tech at conferences and meetups, feel free to invite me, I would love to join!
 
 ## ⚡ Technologies
