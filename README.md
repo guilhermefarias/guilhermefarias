@@ -18,5 +18,3 @@ Talk to me about:
 - Mobile application development using **Flutter**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Managing databases using **PostgreSQL** and his amazing ecosystem.
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefarias&count_private=true)
